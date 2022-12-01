@@ -7,7 +7,7 @@
   - It will load the Distilbert model and run a small example demonstrating how the model works.
 
 ### Part 2: Data Pre-processing
-- Download the files(SenateVotes120k.csv, SenateVotes2022.csv) in the similar github.
+- Download the data(SenateVotes120k.csv, SenateVotes2022.csv) from the similar github, put it in the same folder as the script.
   - SenateVote120k.csv contains data within year of 2021 and SenateVotes2022.csv contains data within year of 2022.
 - Run all code blocks.
   -  It load data in 2021 and 2022 seperately and combines them together.
